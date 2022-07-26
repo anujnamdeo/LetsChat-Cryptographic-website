@@ -1,0 +1,7 @@
+signup.php
+login.php
+logout.php
+userlist.php
+userlistaction.php
+index.php
+confirmmail.php removed functioning
