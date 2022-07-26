@@ -1,0 +1,15 @@
+/* table#tuser{
+    display: block;
+} */
+#tuser_wrapper.form-inline {
+    display: block;
+
+}
+
+#tuser_filter{
+    margin-bottom: 1.2em;
+}
+
+.pagination li{
+    margin-left: 0.3em;
+}
